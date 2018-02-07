@@ -16,7 +16,7 @@ By default, username is root and password is also root. (This is for Lamp)
 
 Run php artisan key:generate
 
-Run php artisan migrate
+import database blog.sql 
 
 Run php artisan serve
 
